@@ -327,7 +327,7 @@ var parts=["source","protocol","authority","userInfo","user","password","host","
       self.url = opts.url;
       self.multiplex = opts.multiplex;
       self.transports = opts.transports;
-
+      self.path = opts.path;
       // Set up "eventQueue" to hold event handlers which have not been set on the actual raw socket yet.
       self.eventQueue = {};
 
