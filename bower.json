@@ -7,6 +7,7 @@
     "Mike McNeil <mike@balderdash.co>"
   ],
   "description": "JavaScript Client SDK for Sails",
+  "private": true,
   "keywords": [
     "sails",
     "socket.io",
