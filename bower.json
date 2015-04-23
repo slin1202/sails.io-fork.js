@@ -1,5 +1,5 @@
 {
-  "name": "sails.io.js",
+  "name": "sails.io-fork.js",
   "main": "dist/sails.io.js",
   "version": "0.11.5",
   "homepage": "https://github.com/slin1202/sails.io.js",
