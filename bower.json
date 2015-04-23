@@ -1,7 +1,7 @@
 {
   "name": "sails.io-fork.js",
   "main": "dist/sails.io.js",
-  "version": "0.11.5",
+  "version": "0.11.6",
   "homepage": "https://github.com/slin1202/sails.io.js",
   "authors": [
     "Mike McNeil <mike@balderdash.co>"
