@@ -354,7 +354,8 @@
       self.useCORSRouteToGetCookie = self.useCORSRouteToGetCookie||io.sails.useCORSRouteToGetCookie;
       self.url = self.url||io.sails.url;
       self.transports = self.transports || io.sails.transports;
-
+      self.path = opts.path;
+      
       // Ensure URL has no trailing slash
       self.url = self.url ? self.url.replace(/(\/)$/, '') : undefined;
 
