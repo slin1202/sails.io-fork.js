@@ -1,6 +1,6 @@
 {
-  "name": "sails.io.js",
-  "version": "0.11.5",
+  "name": "sails.io-fork.js",
+  "version": "0.11.6",
   "description": "Javascript SDK for communicating w/ a Sails server via WebSockets/socket.io.",
   "main": "sails.io.js",
   "directories": {
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/sails.io.js.git"
+    "url": "git://github.com/slin1202/sails.io.js.git"
   },
   "keywords": [
     "sails",
